@@ -134,6 +134,7 @@ PRODUCT_PACKAGES += \
     VoicePlus \
     Basic \
     libemoji \
+    CryptfsPasswordManager \
     Terminal
 
 # Custom CM packages
